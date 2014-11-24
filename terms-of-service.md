@@ -130,10 +130,14 @@ occurring under your Account.
 
 > "We'll follow our privacy policy."
 
-Any information you provide to ThinkUp is subject to ThinkUp's [Privacy
-Policy], which governs our collection and use of your information. You
+Any information you provide to ThinkUp is subject to ThinkUp's Privacy
+Policy, which governs our collection and use of your information. You
 understand that through your use of the Services you consent to the
 collection and use (as set forth in the Privacy Policy) of this information.
+
+View ThinkUp's Privacy Policy here:
+
+https://www.thinkup.com/join/about/privacy.php
 
 ### 6. Content and Intellectual Property Rights
 
